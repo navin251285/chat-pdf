@@ -1,0 +1,3 @@
+cd /home/navin/llms/chat-pdf
+python src/ingest.py
+python src/single-pdf.py 
